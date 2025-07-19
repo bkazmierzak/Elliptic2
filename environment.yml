@@ -1,0 +1,14 @@
+name: elliptic2-gnn
+channels:
+  - pytorch
+  - dglteam
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch=2.0.1
+  - pytorch-cuda=11.8
+  - dgl-cuda11.8
+  - pandas
+  - scikit-learn
+  - pip
